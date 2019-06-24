@@ -1,3 +1,3 @@
 # BooksTest
-- Test task (Provectus Internship)
+- Test task
 - Simple book store
